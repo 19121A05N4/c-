@@ -6,3 +6,5 @@ Palindrome
 Prime
 Factorial
 gjtyjytjtyjt
+toupper
+tolower
